@@ -1,4 +1,4 @@
-![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg)
+![MasterHead](https://image.shutterstock.com/image-vector/programming-banner-coding-best-languages-260nw-1033896166.jpg)
 <h1 align="center">Hi 👋, I'm Serkan Can</h1>
 <h3 align="center">A passionate Computer Engeener from Türkiye</h3>
 
