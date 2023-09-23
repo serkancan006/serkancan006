@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkancan006" alt="serkancan006" /></a> </p>
 
 - 💬 Ask me about **react, react-native, .NetCore**
-
+<!--  
 - 📫 How to reach me **serkancan.kaya1999@gmail.com**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serkan can kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkan can kaya" height="30" width="40" /></a>
