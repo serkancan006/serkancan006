@@ -11,8 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/serkan-can-kaya-064a33244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkan can kaya" height="30" width="40" /></a>
-</p> <a href="https://tobeto.com/profiller/3d385d19-f80c-4d8f-9482-891a76f90b70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tobeto-alt.svg" alt="tobeto" height="30" width="40" /></a>
-<a href="https://www.kariyer.net/ozgecmis-goruntule/?cvId=8xGns1mkjxjKHfXIRtJZoA%3D%3D!e!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kariyer-net-alt.svg" alt="kariyernet" height="30" width="40" /></a>
+</p> 
+<a href="https://tobeto.com/profiller/3d385d19-f80c-4d8f-9482-891a76f90b70" target="blank">tobeto</a>
+<a href="https://www.kariyer.net/ozgecmis-goruntule/?cvId=8xGns1mkjxjKHfXIRtJZoA%3D%3D!e!" target="blank">KariyerNet</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
