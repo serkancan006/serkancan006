@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png" height="350" width="100%">
 <h1 align="center">Hi 👋, I'm Serkan Can</h1>
-<h3 align="center">A passionate Computer Engeener from Türkiye</h3>
+<h3 align="center">A passionate Computer Engeener from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkancan006" alt="serkancan006" /></a> </p>
 
