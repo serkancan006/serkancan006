@@ -1,4 +1,4 @@
-![MasterHead]<img src="https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png" height="300">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png" height="350" width="100%">
 <h1 align="center">Hi 👋, I'm Serkan Can</h1>
 <h3 align="center">A passionate Computer Engeener from Türkiye</h3>
 
