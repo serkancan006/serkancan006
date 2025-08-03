@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkancan006" alt="serkancan006" /></a> </p>
 
-- 💬 Ask me about **react, react-native, .NetCore**
+- 💬 Ask me about **react, react-native, .NetCore, SpringBoot, MachineLearning, AI**
 <!--  
 - 📫 How to reach me **serkancan.kaya1999@gmail.com**
 -->
